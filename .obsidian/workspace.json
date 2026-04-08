@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "be98910eb52ff02b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bec14cdbb2e6f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b271b567d27401e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7f00add26a9266f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83897bd7a5d3cd40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8aa74089c52ac22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "443d4c24723e6a72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "806bbb424cf09899",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aa6ae9c298441d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1381db09f23242d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34b82bf93eda6e19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HSR/星穹铁道不许发车！.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "星穹铁道不许发车！ 的反向链接列表"
+            }
+          },
+          {
+            "id": "ce7d7abf9f532e21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "712bd8a0d9512c12",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "692baa464a180d85",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d2e05d36177a7385",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
+    }
+  },
+  "active": "5b271b567d27401e",
+  "lastOpenFiles": [
+    "AutoBangumi：自动追番，解放双手+1a893fe8-2c82-48cf-afb2-a1bbf700cba4",
+    "AutoBangumi：自动追番，解放双手",
+    "code/code.md",
+    "code/code/NOTE+0eeb96db-b6cc-433d-a3bc-4c2a6e0f3a9c/项目中没有依赖Kotlin，结果报错Kotlin版本问题+a8ec338d-4a10-4557-be10-9e380a7258ee/1420665-20230406172014353-1671192560.png",
+    "code/code/NOTE+0eeb96db-b6cc-433d-a3bc-4c2a6e0f3a9c/20230428更新备忘录+901c1ee0-dbaa-487c-b943-4603b370af13/合同起草表关系.png",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/反向代理服务器的工作原理+d79139b8-2aff-4321-b7a5-b963355aa285/041450332981600.png",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/反向代理服务器的工作原理+d79139b8-2aff-4321-b7a5-b963355aa285/041447047205444.jpg",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/反向代理服务器的工作原理+d79139b8-2aff-4321-b7a5-b963355aa285/041443170643462.jpg",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/nginx-负载均衡+ec420ede-fb6f-4163-afa7-e48b3ce82068/copycode.gif",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/nginx-负载均衡+ec420ede-fb6f-4163-afa7-e48b3ce82068/1120165-20180908153300294-418662600.gif",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/nginx-负载均衡+ec420ede-fb6f-4163-afa7-e48b3ce82068/1120165-20180908152509125-1859907953.gif",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/nginx-负载均衡+ec420ede-fb6f-4163-afa7-e48b3ce82068/1120165-20180908150514476-1375755078.png",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/nginx-负载均衡+ec420ede-fb6f-4163-afa7-e48b3ce82068/1120165-20180908150452914-866570966.png",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640 8",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640 7",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640 6",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640 5",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640 4",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640 2",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640 3",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640 1",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d/640",
+    "code/code/PYTHON+8a9b5ae9-60e2-4e14-a6eb-53eebf885883/未命名页面+5ea510bf-bf60-4061-9f46-d63183437606.md",
+    "code/code/NOTE+0eeb96db-b6cc-433d-a3bc-4c2a6e0f3a9c/项目中没有依赖Kotlin，结果报错Kotlin版本问题+a8ec338d-4a10-4557-be10-9e380a7258ee.md",
+    "code/code/NOTE+0eeb96db-b6cc-433d-a3bc-4c2a6e0f3a9c/集成activeMq+61f8e6d3-85ba-47d8-8858-df2de4312cbd.md",
+    "code/code/NOTE+0eeb96db-b6cc-433d-a3bc-4c2a6e0f3a9c/JAVA-BigDecimal+d8888843-fd99-4303-8a14-99756692d511.md",
+    "code/code/NOTE+0eeb96db-b6cc-433d-a3bc-4c2a6e0f3a9c/JAVA+SpringBoot如何写好单元测试？+f7ceb15e-baaa-4f79-9a5d-923d2c2c98ba.md",
+    "code/code/NOTE+0eeb96db-b6cc-433d-a3bc-4c2a6e0f3a9c/20230428更新备忘录+901c1ee0-dbaa-487c-b943-4603b370af13.md",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/正向代理与反向代理的区别+6e8c64f8-f1eb-484e-9c8e-7ed63634114e.md",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/反向代理服务器的工作原理+d79139b8-2aff-4321-b7a5-b963355aa285.md",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/Nginx软件优化+52f749aa-ba4f-4953-a65a-7a94e3e91a18.md",
+    "code/code/NGINX+31b17968-cb7c-4ed2-b379-e057ad5e5867/nginx-负载均衡+ec420ede-fb6f-4163-afa7-e48b3ce82068.md",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/linux压缩打包命令—tar命令+87a4d8eb-a228-4196-9f9a-4b53c83ea86c.md",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca/kill+-9+pid+带来的问题+960c184f-290b-45b6-9e14-ccaecf2a627d.md",
+    "code/code/AutoBangumi：自动追番，解放双手+1a893fe8-2c82-48cf-afb2-a1bbf700cba4/62a4ba12223a2.webp.md",
+    "code/code/利用NAS实现全自动观影追剧+a8b28a09-adba-41fd-b0e6-e1a014894f7f.md",
+    "code/code/VUE+05e8d678-0c5a-4b11-b92f-84251557a598.md",
+    "code/code/Thymeleaf文档+d21768db-7823-4738-8575-1d5443bb2a79.md",
+    "code/code/Quartz+定时任务+fd0618a6-4b1d-4faa-878c-566ac7afb965.md",
+    "code/code/PYTHON+8a9b5ae9-60e2-4e14-a6eb-53eebf885883.md",
+    "code/code/oracle+jdbc驱动+ojdbc14-10.2.0.4.0.jar+网盘下载+安装jar包+890c10cf-5907-43ea-88bb-a247f720a9bd.md",
+    "code/code/NOTE+0eeb96db-b6cc-433d-a3bc-4c2a6e0f3a9c.md",
+    "code/code/Linux+a8971ae5-35dc-45e5-9a6c-0b06dd2665ca.md",
+    "code/code/flowable流程引擎的简单了解+50cc0985-d310-4b53-b5d6-1b12f4a4e585.md",
+    "code/code/Docker问题处理+97c3548a-0bed-495a-b4c2-0d5bb408d5d7.md",
+    "code/code/AutoBangumi：自动追番，解放双手+1a893fe8-2c82-48cf-afb2-a1bbf700cba4.md",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}
